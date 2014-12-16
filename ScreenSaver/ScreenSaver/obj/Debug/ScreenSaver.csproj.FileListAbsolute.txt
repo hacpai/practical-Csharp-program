@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.exe
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\bin\Debug\ScreenSaver.pdb
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.exe
+c:\users\alex\documents\visual studio 2013\Projects\ScreenSaver\ScreenSaver\obj\Debug\ScreenSaver.pdb
