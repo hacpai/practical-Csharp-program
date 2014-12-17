@@ -59,9 +59,8 @@ namespace FifteenNumberGame
                     // 将生成的按钮加到界面上
                     this.Controls.Add(btn);
                 }
-                // 将最后一个按钮设为空白
-                
             }
+             // 将最后一个按钮设为空白
             Buttons[N - 1, N - 1].Visible = false;
         }
         // 打乱顺序
@@ -91,7 +90,6 @@ namespace FifteenNumberGame
         }
         void btn_Click(object sender, EventArgs e)
         {
- 	        //throw new NotImplementedException();
             // 当前点中的按钮
             Button btn = sender as Button;
             // 空白按钮
@@ -112,19 +110,19 @@ namespace FifteenNumberGame
 
         // 查找要隐藏的按钮
         Button FindHideButton()
-    {
-        for ( int r = 0; r < N; r++ )
         {
-            for ( int c = 0; c < N; c++)
+            for ( int r = 0; r < N; r++ )
             {
-                if ( Buttons[r, c].Visible == false )
+                for ( int c = 0; c < N; c++)
                 {
-                    return Buttons[r, c];
+                    if ( Buttons[r, c].Visible == false )
+                    {
+                        return Buttons[r, c];
+                    }
                 }
             }
+            return null;
         }
-        return null;
-    }
 
         // 判断是否相邻
         bool IsNeighbor (Button btna, Button btnb)
@@ -161,7 +159,4 @@ namespace FifteenNumberGame
 
     }
 }
-
-
-
 
