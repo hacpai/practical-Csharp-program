@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\bin\Debug\DrawEllipse.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\bin\Debug\DrawEllipse.exe
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\bin\Debug\DrawEllipse.pdb
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.exe
+c:\users\alex\documents\visual studio 2013\Projects\DrawEllipse\DrawEllipse\obj\Debug\DrawEllipse.pdb
