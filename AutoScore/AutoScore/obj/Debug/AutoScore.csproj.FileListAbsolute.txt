@@ -1,0 +1,9 @@
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\bin\Debug\AutoScore.exe.config
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\bin\Debug\AutoScore.exe
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\bin\Debug\AutoScore.pdb
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.Form1.resources
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.Properties.Resources.resources
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.csproj.GenerateResource.Cache
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.exe
+c:\users\alex\documents\visual studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.pdb
+C:\Users\alex\Documents\Visual Studio 2013\Projects\AutoScore\AutoScore\obj\Debug\AutoScore.csprojResolveAssemblyReference.cache
