@@ -8,4 +8,5 @@ practical-Csharp-program
     * 将.exe文件改为.scr,并复制到c:\windows\system32
 * DrawEllipse - 画圆程序
 * FifteenNumberGame - 十五字游戏
+* AutoScore - 自动出题判分机
 
