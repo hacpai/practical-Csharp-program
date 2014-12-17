@@ -1,0 +1,8 @@
+Y:\FifteenNumberGame\FifteenNumberGame\bin\Debug\FifteenNumberGame.exe.config
+Y:\FifteenNumberGame\FifteenNumberGame\obj\Debug\FifteenNumberGame.Properties.Resources.resources
+Y:\FifteenNumberGame\FifteenNumberGame\obj\Debug\FifteenNumberGame.csproj.GenerateResource.Cache
+Y:\FifteenNumberGame\FifteenNumberGame\bin\Debug\FifteenNumberGame.exe
+Y:\FifteenNumberGame\FifteenNumberGame\bin\Debug\FifteenNumberGame.pdb
+Y:\FifteenNumberGame\FifteenNumberGame\obj\Debug\FifteenNumberGame.exe
+Y:\FifteenNumberGame\FifteenNumberGame\obj\Debug\FifteenNumberGame.pdb
+Y:\FifteenNumberGame\FifteenNumberGame\obj\Debug\FifteenNumberGame.Form1.resources
