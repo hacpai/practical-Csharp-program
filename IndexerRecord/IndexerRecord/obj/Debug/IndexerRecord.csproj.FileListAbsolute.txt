@@ -1,0 +1,6 @@
+Z:\IndexerRecord\IndexerRecord\bin\Debug\IndexerRecord.exe.config
+Z:\IndexerRecord\IndexerRecord\bin\Debug\IndexerRecord.exe
+Z:\IndexerRecord\IndexerRecord\bin\Debug\IndexerRecord.pdb
+Z:\IndexerRecord\IndexerRecord\obj\Debug\IndexerRecord.csprojResolveAssemblyReference.cache
+Z:\IndexerRecord\IndexerRecord\obj\Debug\IndexerRecord.exe
+Z:\IndexerRecord\IndexerRecord\obj\Debug\IndexerRecord.pdb
