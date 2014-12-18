@@ -10,4 +10,5 @@ practical-Csharp-program
 * FifteenNumberGame - 十五字游戏
 * AutoScore - 自动出题判分机
 * BankSystem - 银行系统
+* IndexerRecord - 用索引取一个记录中的各项
 
